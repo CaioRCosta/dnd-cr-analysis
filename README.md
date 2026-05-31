@@ -122,8 +122,8 @@ O modelo final atingiu **MAE de 0.73 níveis de CR** e **R² de 0.95** nos dados
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/CaioRCosta/dnd-cr-analysis.git
+cd Sdnd-cr-analysis
 
 # 2. Instale as dependências
 pip install requests pandas scikit-learn matplotlib seaborn
