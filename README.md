@@ -1,6 +1,5 @@
 # D&D 5e: Análise de Balanceamento de Monstros com Machine Learning
 
-![Banner](images/strongxweak.png)
 
 ---
 
