@@ -1,8 +1,6 @@
 # D&D 5e: Análise de Balanceamento de Monstros com Machine Learning
 
 
----
-
 ## 1. Descrição
 
 Este é um projeto completo de ciência de dados que aplica Machine Learning para auditar o sistema de **Challenge Rating (CR)** do *Dungeons & Dragons 5ª Edição*, a métrica oficial usada pela Wizards of the Coast para classificar a dificuldade de cada monstro.
