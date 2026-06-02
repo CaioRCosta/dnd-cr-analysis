@@ -1,0 +1,323 @@
+name,cr,cr_matematico,discrepancia,hit_points,dpr_maximo
+Green Hag,3.0,7.6,4.6,82,13.0
+Dragon Turtle,17.0,20.6,3.6,341,85.0
+Gelatinous Cube,2.0,4.2,2.2,84,31.5
+Adult Bronze Dragon,15.0,16.9,1.9,212,87.0
+Adult Gold Dragon,17.0,18.8,1.8,256,88.5
+Night Hag,5.0,6.6,1.6,112,13.0
+Couatl,4.0,5.6,1.6,97,10.0
+Adult Red Dragon,17.0,18.4,1.4,256,85.5
+Young Bronze Dragon,8.0,9.3,1.3,142,55.0
+Mammoth,6.0,7.2,1.2,126,29.0
+Lamia,4.0,5.2,1.2,97,19.5
+Werebear,5.0,6.0,1.0,135,15.0
+Shambling Mound,5.0,6.0,1.0,136,39.0
+Death Dog,1.0,2.0,1.0,39,22.0
+Deva,10.0,11.0,1.0,136,25.5
+Winter Wolf,3.0,3.9,0.9,75,18.0
+Adult Blue Dragon,16.0,16.9,0.9,225,87.0
+Roc,11.0,11.9,0.9,248,50.0
+Ancient Bronze Dragon,22.0,22.8,0.8,444,112.0
+Djinni,11.0,11.8,0.8,161,46.5
+Ogre Zombie,2.0,2.8,0.8,85,13.0
+Glabrezu,9.0,9.7,0.7,157,46.0
+Cloud Giant,9.0,9.7,0.7,200,43.0
+Salamander,5.0,5.6,0.6,90,45.5
+Killer Whale,3.0,3.6,0.6,90,21.5
+Merrow,2.0,2.5,0.5,45,28.5
+Young Green Dragon,8.0,8.5,0.5,136,44.0
+Barbed Devil,5.0,5.5,0.5,110,44.0
+Planetar,16.0,16.5,0.5,200,43.5
+Gibbering Mouther,2.0,2.5,0.5,67,17.5
+Swarm of Poisonous Snakes,2.0,2.5,0.5,36,24.5
+Medusa,6.0,6.5,0.5,127,56.5
+Minotaur,3.0,3.5,0.5,76,17.0
+Young Silver Dragon,9.0,9.5,0.5,168,54.0
+Stone Golem,10.0,10.5,0.5,178,39.0
+Young Blue Dragon,9.0,9.5,0.5,152,55.0
+Horned Devil,11.0,11.5,0.5,178,61.5
+Manticore,3.0,3.4,0.4,68,43.0
+Giant Ape,7.0,7.4,0.4,157,45.0
+Gladiator,5.0,5.4,0.4,112,24.0
+Drider,6.0,6.4,0.4,123,71.5
+Minotaur Skeleton,2.0,2.4,0.4,67,17.0
+Stone Giant,7.0,7.4,0.4,126,39.0
+Bandit Captain,2.0,2.4,0.4,65,18.5
+Spy,1.0,1.4,0.4,27,5.5
+Thug,0.5,0.9,0.4,32,5.5
+Young White Dragon,6.0,6.4,0.4,133,45.0
+Earth Elemental,5.0,5.4,0.4,126,28.0
+Efreeti,11.0,11.4,0.4,200,75.0
+Adult Silver Dragon,16.0,16.4,0.4,243,81.0
+Young Gold Dragon,10.0,10.4,0.4,178,55.0
+Giant Octopus,1.0,1.4,0.4,52,10.0
+Ancient White Dragon,20.0,20.4,0.4,333,94.5
+Animated Armor,1.0,1.4,0.4,33,5.5
+Worg,0.5,0.9,0.4,26,10.0
+Satyr,0.5,0.8,0.3,31,6.5
+Red Dragon Wyrmling,4.0,4.3,0.3,75,24.5
+Centaur,2.0,2.3,0.3,45,33.5
+Brown Bear,1.0,1.3,0.3,34,19.5
+Giant Toad,1.0,1.3,0.3,39,13.0
+Plesiosaurus,2.0,2.3,0.3,68,14.5
+Steam Mephit,0.25,0.6,0.3,21,5.0
+Otyugh,5.0,5.3,0.3,114,41.5
+Weretiger,4.0,4.3,0.3,120,8.5
+Giant Hyena,1.0,1.3,0.3,45,10.0
+Gorgon,5.0,5.2,0.2,114,18.0
+Harpy,1.0,1.2,0.2,38,9.5
+Giant Shark,5.0,5.2,0.2,126,22.5
+Ettin,4.0,4.2,0.2,85,28.0
+Dryad,1.0,1.2,0.2,22,11.0
+Giant Lizard,0.25,0.4,0.2,19,6.5
+Flying Sword,0.25,0.5,0.2,17,5.5
+Dire Wolf,1.0,1.2,0.2,37,10.0
+Giant Elk,2.0,2.2,0.2,42,22.0
+Giant Bat,0.25,0.5,0.2,22,5.5
+Ogre,2.0,2.2,0.2,59,13.0
+Cockatrice,0.5,0.7,0.2,27,3.5
+Pit Fiend,20.0,20.2,0.2,300,120.5
+Hill Giant,5.0,5.2,0.2,105,37.0
+Mimic,2.0,2.2,0.2,58,12.0
+Blink Dog,0.25,0.4,0.2,22,4.5
+Ancient Silver Dragon,23.0,23.2,0.2,487,93.0
+Camel,0.125,0.3,0.2,15,2.5
+Succubus/Incubus,4.0,4.2,0.2,66,32.5
+Chuul,4.0,4.2,0.2,93,22.0
+Sahuagin,0.5,0.7,0.2,22,17.0
+Giant Frog,0.25,0.3,0.1,18,5.0
+Shield Guardian,7.0,7.1,0.1,142,22.0
+Saber-Toothed Tiger,2.0,2.1,0.1,52,12.0
+Rust Monster,0.5,0.6,0.1,27,5.5
+Giant Eagle,1.0,1.1,0.1,26,16.5
+Giant Crab,0.125,0.2,0.1,13,4.5
+Giant Owl,0.25,0.3,0.1,19,8.0
+Sea Hag,2.0,2.1,0.1,52,10.0
+Giant Centipede,0.25,0.3,0.1,4,15.0
+Remorhaz,11.0,11.1,0.1,195,50.5
+Giant Poisonous Snake,0.25,0.3,0.1,11,17.0
+Swarm of Quippers,1.0,1.1,0.1,28,21.0
+Silver Dragon Wyrmling,2.0,2.1,0.1,45,18.0
+Polar Bear,2.0,2.1,0.1,42,21.5
+Noble,0.125,0.2,0.1,9,5.5
+Magma Mephit,0.5,0.6,0.1,22,6.0
+Gnoll,0.5,0.6,0.1,22,12.0
+Griffon,2.0,2.1,0.1,59,19.5
+Guard,0.125,0.2,0.1,11,10.0
+Swarm of Bats,0.25,0.3,0.1,22,7.5
+Ice Mephit,0.5,0.6,0.1,21,6.0
+Homunculus,0.0,0.1,0.1,5,5.5
+Swarm of Ravens,0.25,0.4,0.1,24,10.5
+Swarm of Rats,0.25,0.3,0.1,24,10.5
+Stirge,0.125,0.2,0.1,2,11.0
+Zombie,0.25,0.3,0.1,22,4.5
+Water Elemental,5.0,5.1,0.1,114,26.0
+Warhorse Skeleton,0.5,0.6,0.1,22,11.0
+Dretch,0.25,0.3,0.1,18,8.5
+Black Dragon Wyrmling,2.0,2.1,0.1,33,22.5
+Draft Horse,0.25,0.3,0.1,19,9.0
+Awakened Tree,2.0,2.1,0.1,59,14.5
+Bone Devil,9.0,9.0,0.1,142,47.5
+Darkmantle,0.5,0.6,0.1,22,6.5
+Copper Dragon Wyrmling,1.0,1.1,0.1,22,18.0
+Adult White Dragon,13.0,13.1,0.1,200,73.5
+Giant Badger,0.25,0.3,0.0,13,10.5
+Blood Hawk,0.125,0.1,-0.0,7,4.5
+Bearded Devil,3.0,3.0,-0.0,52,26.0
+Sprite,0.25,0.2,-0.0,2,0.0
+Mule,0.125,0.1,0.0,11,4.5
+Berserker,2.0,2.0,0.0,67,9.5
+Black Bear,0.5,0.5,-0.0,19,12.5
+Jackal,0.0,0.0,0.0,3,1.5
+Weasel,0.0,0.0,0.0,1,0.0
+Kobold,0.125,0.1,-0.0,5,4.5
+Mastiff,0.125,0.1,-0.0,5,4.5
+Merfolk,0.125,0.2,0.0,11,8.0
+Lemure,0.0,0.0,0.0,13,2.5
+Boar,0.25,0.2,-0.0,11,4.5
+Kraken,23.0,23.0,0.0,472,82.0
+Bat,0.0,0.0,0.0,1,0.0
+Magmin,0.5,0.5,-0.0,9,10.5
+Lizardfolk,0.5,0.5,0.0,22,5.5
+Lizard,0.0,0.0,0.0,2,0.0
+Bulette,5.0,5.0,0.0,94,30.0
+Nightmare,3.0,3.0,0.0,68,20.0
+Cat,0.0,0.0,0.0,2,0.0
+Octopus,0.0,0.0,0.0,3,0.0
+Awakened Shrub,0.0,0.0,0.0,10,1.5
+Adult Copper Dragon,14.0,14.0,-0.0,184,73.5
+Scorpion,0.0,0.0,0.0,1,4.5
+Young Red Dragon,10.0,10.0,-0.0,178,56.0
+Young Brass Dragon,6.0,6.0,-0.0,110,42.0
+Riding Horse,0.25,0.2,-0.0,13,8.0
+Reef Shark,0.5,0.5,-0.0,22,6.5
+Ape,0.5,0.5,0.0,19,13.0
+Raven,0.0,0.0,0.0,1,0.0
+Rat,0.0,0.0,0.0,1,0.0
+Wyvern,6.0,6.0,-0.0,110,59.5
+Quipper,0.0,0.0,0.0,1,0.0
+Shrieker,0.0,0.0,0.0,13,0.0
+Pony,0.125,0.1,0.0,11,7.0
+Commoner,0.0,0.0,0.0,4,2.5
+Poisonous Snake,0.125,0.1,-0.0,2,5.0
+Axe Beak,0.25,0.3,0.0,19,6.5
+Baboon,0.0,0.0,0.0,3,1.5
+Skeleton,0.25,0.2,-0.0,13,5.5
+Pegasus,2.0,2.0,0.0,59,11.0
+Panther,0.25,0.2,-0.0,13,5.5
+Specter,1.0,1.0,-0.0,22,10.5
+Owl,0.0,0.0,0.0,1,0.0
+Badger,0.0,0.0,0.0,3,0.0
+Orc,0.5,0.5,-0.0,15,9.5
+Spider,0.0,0.0,0.0,1,2.5
+Wolf,0.25,0.2,-0.0,11,7.0
+Bandit,0.125,0.1,0.0,11,5.5
+Sea Horse,0.0,0.0,0.0,1,0.0
+Swarm of Beetles,0.5,0.5,-0.0,22,15.0
+Gold Dragon Wyrmling,3.0,3.0,-0.0,60,22.0
+Goat,0.0,0.0,0.0,4,3.5
+Vulture,0.0,0.0,0.0,5,2.5
+Dust Mephit,0.5,0.5,-0.0,17,4.5
+Eagle,0.0,0.0,0.0,3,4.5
+Giant Wolf Spider,0.25,0.3,0.0,11,11.5
+Constrictor Snake,0.25,0.3,0.0,13,6.5
+Giant Spider,1.0,1.0,-0.0,26,16.5
+Elk,0.25,0.3,0.0,13,8.0
+Giant Sea Horse,0.5,0.5,-0.0,16,4.5
+Violet Fungus,0.25,0.3,0.0,18,4.5
+Giant Rat (Diseased),0.125,0.1,0.0,7,8.0
+Giant Rat,0.125,0.1,-0.0,7,4.5
+Ettercap,2.0,2.0,0.0,44,18.0
+Fire Elemental,5.0,5.0,0.0,102,31.0
+Shadow,0.5,0.5,0.0,16,9.0
+Flying Snake,0.125,0.1,0.0,5,7.5
+Giant Fire Beetle,0.0,0.0,0.0,4,2.5
+Frog,0.0,0.0,0.0,1,0.0
+Tyrannosaurus Rex,8.0,8.0,-0.0,136,53.5
+Tiger,1.0,1.0,0.0,37,8.5
+Gargoyle,2.0,2.0,0.0,52,11.0
+Giant Constrictor Snake,2.0,2.0,0.0,60,13.0
+Tribal Warrior,0.125,0.2,0.0,11,10.0
+Goblin,0.25,0.2,-0.0,7,5.5
+Giant Weasel,0.125,0.1,0.0,9,5.5
+Deer,0.0,0.0,0.0,4,2.5
+Warhorse,0.5,0.5,0.0,19,11.0
+Cultist,0.125,0.1,0.0,9,4.5
+Hawk,0.0,0.0,0.0,1,0.0
+Swarm of Insects,0.5,0.5,-0.0,22,15.0
+Deep Gnome (Svirfneblin),0.5,0.5,0.0,16,6.5
+Crocodile,0.5,0.5,-0.0,19,7.5
+Hyena,0.0,0.0,0.0,5,3.5
+Swarm of Spiders,0.5,0.5,0.0,22,15.0
+Swarm of Centipedes,0.5,0.5,-0.0,22,15.0
+Grimlock,0.25,0.2,-0.0,11,8.0
+Crab,0.0,0.0,0.0,2,0.0
+Swarm of Wasps,0.5,0.5,-0.0,22,15.0
+Green Dragon Wyrmling,2.0,2.0,0.0,38,21.0
+Gray Ooze,0.5,0.5,0.0,22,11.5
+Drow,0.25,0.3,0.0,13,5.5
+Acolyte,0.25,0.2,-0.0,9,2.5
+Roper,5.0,4.9,-0.1,93,22.0
+Xorn,5.0,4.9,-0.1,73,33.0
+Hunter Shark,2.0,2.0,-0.1,45,13.0
+Rhinoceros,2.0,2.0,-0.1,45,14.0
+Mummy,3.0,2.9,-0.1,58,31.0
+Young Copper Dragon,7.0,6.9,-0.1,119,40.5
+Ancient Copper Dragon,21.0,20.9,-0.1,350,85.5
+Ancient Black Dragon,21.0,20.9,-0.1,367,90.0
+Air Elemental,5.0,4.9,-0.1,90,28.0
+Ghast,2.0,1.9,-0.1,36,12.0
+Scout,0.5,0.4,-0.1,16,6.5
+Troll,5.0,4.9,-0.1,84,29.5
+Hobgoblin,0.5,0.4,-0.1,11,12.0
+Fire Giant,9.0,8.9,-0.1,162,56.0
+Giant Goat,0.5,0.4,-0.1,19,8.0
+Lion,1.0,0.9,-0.1,26,7.5
+Ochre Jelly,2.0,1.9,-0.1,45,12.5
+Duergar,1.0,0.9,-0.1,26,17.5
+Blue Dragon Wyrmling,3.0,2.8,-0.1,52,22.0
+Giant Wasp,0.5,0.4,-0.1,13,16.0
+Giant Vulture,1.0,0.9,-0.1,22,16.0
+Elephant,4.0,3.9,-0.1,76,22.5
+Azer,2.0,1.9,-0.1,39,19.5
+Bronze Dragon Wyrmling,2.0,1.8,-0.1,32,16.5
+Bugbear,1.0,0.9,-0.1,27,14.5
+White Dragon Wyrmling,2.0,1.9,-0.1,32,22.5
+Pseudodragon,0.25,0.2,-0.1,7,4.5
+Purple Worm,15.0,15.0,-0.1,247,61.5
+Veteran,3.0,2.9,-0.1,58,38.5
+Ghoul,1.0,0.9,-0.1,22,9.0
+Wererat,2.0,1.8,-0.2,33,5.5
+Wereboar,4.0,3.8,-0.2,78,10.0
+Aboleth,10.0,9.8,-0.2,135,71.25
+Flesh Golem,5.0,4.8,-0.2,93,26.0
+Brass Dragon Wyrmling,1.0,0.8,-0.2,16,14.0
+Adult Black Dragon,14.0,13.8,-0.2,195,73.5
+Hydra,8.0,7.8,-0.2,172,10.5
+Black Pudding,4.0,3.8,-0.2,85,24.5
+Owlbear,3.0,2.8,-0.2,59,24.5
+Ancient Blue Dragon,23.0,22.8,-0.2,481,112.0
+Giant Scorpion,3.0,2.8,-0.2,52,42.5
+Giant Boar,2.0,1.8,-0.2,42,10.0
+Storm Giant,13.0,12.7,-0.3,230,60.0
+Imp,1.0,0.7,-0.3,10,16.0
+Wight,3.0,2.7,-0.3,45,41.0
+Will-o'-Wisp,2.0,1.7,-0.3,22,9.0
+Ancient Red Dragon,24.0,23.7,-0.3,546,116.5
+Ankheg,2.0,1.7,-0.3,39,13.5
+Druid,2.0,1.7,-0.3,27,10.0
+Giant Crocodile,5.0,4.7,-0.3,85,35.5
+Adult Green Dragon,15.0,14.7,-0.3,207,75.5
+Adult Brass Dragon,13.0,12.7,-0.3,172,65.0
+Quasit,1.0,0.7,-0.3,7,10.5
+Hezrou,8.0,7.7,-0.3,136,37.0
+Vampire Spawn,5.0,4.6,-0.4,82,13.5
+Frost Giant,8.0,7.6,-0.4,138,51.0
+Rug of Smothering,2.0,1.6,-0.4,33,10.0
+Chimera,6.0,5.6,-0.4,114,32.5
+Basilisk,3.0,2.6,-0.4,52,17.0
+Young Black Dragon,7.0,6.6,-0.4,127,49.5
+Ancient Green Dragon,22.0,21.6,-0.4,385,99.5
+Ancient Gold Dragon,24.0,23.6,-0.4,546,97.0
+Ancient Brass Dragon,20.0,19.6,-0.4,297,78.5
+Ghost,4.0,3.6,-0.4,45,17.0
+Hell Hound,3.0,2.6,-0.4,45,21.0
+Hippogriff,1.0,0.6,-0.4,19,18.5
+Priest,2.0,1.5,-0.5,27,3.5
+Spirit Naga,8.0,7.5,-0.5,75,39.0
+Wraith,5.0,4.5,-0.5,67,21.0
+Grick,2.0,1.5,-0.5,27,14.5
+Werewolf,3.0,2.5,-0.5,58,12.0
+Triceratops,5.0,4.4,-0.6,95,24.0
+Guardian Naga,10.0,9.4,-0.6,127,53.5
+Knight,3.0,2.4,-0.6,52,10.0
+Invisible Stalker,6.0,5.4,-0.6,104,20.0
+Cult Fanatic,2.0,1.4,-0.6,22,4.5
+Balor,19.0,18.3,-0.7,262,60.5
+Unicorn,5.0,4.3,-0.7,67,30.5
+Gynosphinx,11.0,10.3,-0.7,136,26.0
+Rakshasa,13.0,12.2,-0.8,110,18.0
+Phase Spider,3.0,2.2,-0.8,32,25.5
+Marilith,16.0,15.2,-0.8,189,28.0
+Ice Devil,14.0,13.2,-0.8,180,65.5
+Oni,7.0,6.1,-0.9,110,24.5
+Assassin,8.0,7.1,-0.9,78,62.0
+Vrock,6.0,5.1,-0.9,104,24.0
+Archmage,12.0,11.0,-1.0,99,4.5
+Nalfeshnee,13.0,11.9,-1.1,184,63.5
+Erinyes,12.0,10.9,-1.1,153,31.5
+Treant,9.0,7.9,-1.1,138,33.0
+Cloaker,8.0,6.9,-1.1,78,17.5
+Iron Golem,16.0,14.8,-1.2,210,45.0
+Vampire,13.0,11.8,-1.2,144,18.0
+Doppelganger,3.0,1.7,-1.3,52,7.5
+Mage,6.0,4.4,-1.6,40,4.5
+Half-Red Dragon Veteran,5.0,3.3,-1.7,65,38.5
+Androsphinx,17.0,15.2,-1.8,199,44.0
+Behir,11.0,8.8,-2.2,168,66.0
+Mummy Lord,15.0,12.8,-2.2,97,46.0
+Solar,21.0,18.0,-3.0,243,140.0
+Tarrasque,30.0,26.9,-3.1,676,204.0
+Clay Golem,9.0,5.8,-3.2,133,32.0
+Lich,21.0,17.6,-3.4,135,31.5
+Chain Devil,11.0,5.2,-5.8,85,36.0
